@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aliso\\OneDrive\\Documents\\GitHub\\crud.NetCore\\CrudPractica\\CrudPractica\\CrudPractica.csproj": {}
+    "C:\\Users\\aliso\\OneDrive\\Documents\\GitHub\\crudContacto-.netCore\\CrudPractica\\CrudPractica\\CrudPractica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aliso\\OneDrive\\Documents\\GitHub\\crud.NetCore\\CrudPractica\\CrudPractica\\CrudPractica.csproj": {
+    "C:\\Users\\aliso\\OneDrive\\Documents\\GitHub\\crudContacto-.netCore\\CrudPractica\\CrudPractica\\CrudPractica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aliso\\OneDrive\\Documents\\GitHub\\crud.NetCore\\CrudPractica\\CrudPractica\\CrudPractica.csproj",
+        "projectUniqueName": "C:\\Users\\aliso\\OneDrive\\Documents\\GitHub\\crudContacto-.netCore\\CrudPractica\\CrudPractica\\CrudPractica.csproj",
         "projectName": "CrudPractica",
-        "projectPath": "C:\\Users\\aliso\\OneDrive\\Documents\\GitHub\\crud.NetCore\\CrudPractica\\CrudPractica\\CrudPractica.csproj",
+        "projectPath": "C:\\Users\\aliso\\OneDrive\\Documents\\GitHub\\crudContacto-.netCore\\CrudPractica\\CrudPractica\\CrudPractica.csproj",
         "packagesPath": "C:\\Users\\aliso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aliso\\OneDrive\\Documents\\GitHub\\crud.NetCore\\CrudPractica\\CrudPractica\\obj\\",
+        "outputPath": "C:\\Users\\aliso\\OneDrive\\Documents\\GitHub\\crudContacto-.netCore\\CrudPractica\\CrudPractica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aliso\\AppData\\Roaming\\NuGet\\NuGet.Config",

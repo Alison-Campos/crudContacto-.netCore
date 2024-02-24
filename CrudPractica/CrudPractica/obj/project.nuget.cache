@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N0fgHjw23Z+qYbwXD+Xdmn4NKUUJEcchlkDu6rdxpfLtl2PgqhwzPgLbTlTyJ1DZ2S5m7wCbxyXN5dyKKkJmHw==",
+  "dgSpecHash": "qBZ1b3y/LTFIhORPJ05g8zwHW8rPYjim0LT7B9IwoNZWP6aL0LhMJfZoAFBjDJPlK+PO755RjDb0a875y0B9cQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aliso\\OneDrive\\Documents\\GitHub\\crud.NetCore\\CrudPractica\\CrudPractica\\CrudPractica.csproj",
+  "projectFilePath": "C:\\Users\\aliso\\OneDrive\\Documents\\GitHub\\crudContacto-.netCore\\CrudPractica\\CrudPractica\\CrudPractica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aliso\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\aliso\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
